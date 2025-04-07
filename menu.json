@@ -1,0 +1,9 @@
+{
+    "items": [
+      { "name": "Kaffe", "price": "35 NOK" },
+      { "name": "Cappuccino", "price": "45 NOK" },
+      { "name": "Latte", "price": "50 NOK" },
+      { "name": "Croissant", "price": "30 NOK" }
+    ]
+  }
+  
